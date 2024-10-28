@@ -1,0 +1,3 @@
+﻿  QuadSolution.cpp
+C:\Users\Ryan\source\repos\QuadSolution\QuadSolution\QuadSolution.cpp(42,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  QuadSolution.vcxproj -> C:\Users\Ryan\source\repos\QuadSolution\x64\Debug\QuadSolution.exe
